@@ -53,7 +53,7 @@ p {
       
   }
   .hero-image {
-    background: url("/../assets/globe.jpg")no-repeat;
+    background: url("/../assets/globes.jpg")no-repeat;
     background-size:cover;
     height: 640px;
     display:auto;
